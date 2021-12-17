@@ -1,0 +1,2 @@
+Download Git: https://git-scm.com/download/win
+O Git é um terminal estendido para uso do Git
